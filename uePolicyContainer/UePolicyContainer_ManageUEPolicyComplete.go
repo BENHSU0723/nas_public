@@ -4,7 +4,7 @@ import (
 	"bytes"
 	"encoding/binary"
 
-	"github.com/free5gc/nas/nasType"
+	"github.com/BENHSU0723/nas_public/nasType"
 )
 
 type ManageUEPolicyComplete struct {

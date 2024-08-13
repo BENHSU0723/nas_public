@@ -1,4 +1,4 @@
-module github.com/free5gc/nas
+module github.com/BENHSU0723/nas_public
 
 go 1.21
 

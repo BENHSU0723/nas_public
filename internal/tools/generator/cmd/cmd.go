@@ -1,6 +1,6 @@
 package main
 
-import "github.com/free5gc/nas/internal/tools/generator"
+import "github.com/BENHSU0723/nas_public/internal/tools/generator"
 
 func main() {
 	generator.ParseSpecs()

@@ -5,7 +5,7 @@ import (
 
 	"github.com/stretchr/testify/assert"
 
-	"github.com/free5gc/nas/nasType"
+	"github.com/BENHSU0723/nas_public/nasType"
 )
 
 func TestNasTypeNewSecurityModeRejectMessageIdentity(t *testing.T) {

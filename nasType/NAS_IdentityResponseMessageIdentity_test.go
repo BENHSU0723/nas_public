@@ -5,8 +5,8 @@ import (
 
 	"github.com/stretchr/testify/assert"
 
-	"github.com/free5gc/nas"
-	"github.com/free5gc/nas/nasType"
+	nas "github.com/BENHSU0723/nas_public"
+	"github.com/BENHSU0723/nas_public/nasType"
 )
 
 type nasTypeIdentityResponseMessageIdentityData struct {

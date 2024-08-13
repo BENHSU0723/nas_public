@@ -5,8 +5,8 @@ import (
 
 	"github.com/stretchr/testify/assert"
 
-	"github.com/free5gc/nas/nasMessage"
-	"github.com/free5gc/nas/nasType"
+	"github.com/BENHSU0723/nas_public/nasMessage"
+	"github.com/BENHSU0723/nas_public/nasType"
 )
 
 func TestNasTypeNewUpdateType5GS(t *testing.T) {

@@ -8,7 +8,7 @@ import (
 	"fmt"
 	"testing"
 
-	"github.com/free5gc/nas"
+	nas "github.com/BENHSU0723/nas_public"
 )
 
 func FuzzNAS(f *testing.F) {
